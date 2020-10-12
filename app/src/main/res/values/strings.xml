@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_heroes">Nama Pahlawan</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Among Us</item>
+        <item>Free Fire</item>
+        <item>Genshin Impact</item>
+        <item>League Of Legend</item>
+        <item>Mobile Legends Bang Bang</item>
+        <item>Player Unknown Battleground Mobile</item>
+        <item>Clash Of Clan</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Among Us Game bikin dosa sukanya fitnah</item>
+        <item>FF Game bocil buriq</item>
+        <item>Game yang ga cocok buat hp kentang</item>
+        <item>Game baru yang lagi happening buat anak MOBA</item>
+        <item>Game MOBA veteran yang legend</item>
+        <item>Tembak Tembakan satu map</item>
+        <item>Perang antar desa        </item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/amongus</item>
+        <item>@drawable/ff</item>
+        <item>@drawable/genshin</item>
+        <item>@drawable/lol</item>
+        <item>@drawable/mlbb</item>
+        <item>@drawable/pubgm</item>
+        <item>@drawable/coc</item>
+    </array>
+</resources>
